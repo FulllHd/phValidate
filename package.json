@@ -1,0 +1,9 @@
+{
+  "name": "phValidate",
+  "version": "0.0.1",
+  "description": "Phone validation package",
+  "main": "index.js",
+  "repository": "https://github.com/FulllHd/phValidate.git",
+  "author": "Zim_code",
+  "license": "MIT"
+}
